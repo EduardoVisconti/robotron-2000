@@ -83,6 +83,12 @@ dizOi('duds')
 // função
 ____________________________
 
+* Definimos o que é Array e como manipular seus objetos;
+
+* Como utilizar arrow functions;
+
+* Como utilizar o método splice() para remover itens.
+
 -------------
 -------------
 
