@@ -94,6 +94,8 @@ ____________________________
 
 AULA 04
 
+* data-attributes: permitem armazenar informações extras em elementos HTML. Sua utilização não é indicada para dados visíveis, pois tecnologias de acessibilidade podem não ler seus valores. Seus dados podem ser acessados e manipulados utilizando JavaScript, ou também para estilizar elementos HTML no CSS.
+
 
 
 -------------
