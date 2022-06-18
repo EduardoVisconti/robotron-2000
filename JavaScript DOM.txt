@@ -96,7 +96,11 @@ AULA 04
 
 * data-attributes: permitem armazenar informações extras em elementos HTML. Sua utilização não é indicada para dados visíveis, pois tecnologias de acessibilidade podem não ler seus valores. Seus dados podem ser acessados e manipulados utilizando JavaScript, ou também para estilizar elementos HTML no CSS.
 
+* Aprendemos como utilizar a propriedade parentNode;
 
+* Definimos o que é data-attributes;
+
+* Criamos funções para manipular elementos no DOM com data-attributes.
 
 -------------
 -------------
